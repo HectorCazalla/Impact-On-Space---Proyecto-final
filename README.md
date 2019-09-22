@@ -1,5 +1,5 @@
 # Impact-On-Space---Proyecto-final
-Juego creado con Pygame donde deberemos esquivar los meteoritos el maximo tiempo posible.
+Juego creado con Pygame donde deberemos esquivar con nuestra nave los meteoritos durante el maximo tiempo posible.
 
 Tenemos que instalar la libreria Pygame. Desde cmd.exe escribimos:
 
